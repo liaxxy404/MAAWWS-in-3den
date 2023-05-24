@@ -1,3 +1,6 @@
+Copy and paste this into console when doing accuracy tests in 3den.
+
+
 addEventHandler ["Fired", {
     _this spawn 
     {
